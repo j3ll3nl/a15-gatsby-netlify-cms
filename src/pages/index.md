@@ -3,7 +3,7 @@ templateKey: index-page
 title: Scouting A15
 image: /img/19922417718_1f54e74a96_k.jpg
 heading: Welkom bij Scouting A15
-subheading: De grootste jeugdvereniging van Hardinxveld-Giessendam
+subheading: De grootste jeugdvereniging van Hardinxveld-Giessendam!
 mainpitch:
   title: Welkom
   description: >-
